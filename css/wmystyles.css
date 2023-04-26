@@ -10,22 +10,20 @@ h1, .subheading{
     
 }
 
-.header {
+.header{
     width: 100%;
     padding:60px 0;
     text-align: center;
     background: lightgrey;
-
   }
   
-
 body{
     background-color:honeydew;
 }
 
 .vid{
-    height: 500px; 
-    width: 200px;
+    height:fit-content;
+    width:fit-content;
 }
 
 .pic{
