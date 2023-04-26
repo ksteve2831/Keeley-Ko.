@@ -1,17 +1,23 @@
-.masthead{
-    height: 300px;
-    opacity: 300px;
-    
-}
+
+
  h2, body, p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: dimgrey;
 }
 h1, .subheading{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:aliceblue;
+    color: black;
     
 }
+
+.header {
+    width: 100%;
+    padding:60px 0;
+    text-align: center;
+    background: lightgrey;
+
+  }
+  
 
 body{
     background-color:honeydew;
