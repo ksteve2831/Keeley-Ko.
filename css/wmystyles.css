@@ -27,8 +27,8 @@ body{
 }
 
 .pic{
-    width: 300px;
-    height: 200px
+    width:fit-content;
+    height:fit-content;
 }
 
 .topright{
